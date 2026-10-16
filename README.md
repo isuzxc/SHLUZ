@@ -2,10 +2,7 @@
 
 A working scale model of a ship lock with an automatic system that protects the lock gates from a vessel ramming into them. Built by team **Hydroguards** (Гидростражи) for the **Moscow Predprofessional Olympiad 2024/25** (Product sector, Engineering profile). The team won with **90/100 points**.
 
-▶ **Demo video:** [add link here] (no narration)
-
-<!-- Add a photo of the finished model, e.g. docs/model.jpg -->
-<!-- ![The lock model](docs/model.jpg) -->
+▶ **Demo video:** [https://drive.google.com/file/d/1UjxNKrvoZrJ4bb8MGSVHhdbNzYJcA9Ue/view?usp=sharing] (no narration)
 
 ## What the project does
 
